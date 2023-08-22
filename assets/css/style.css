@@ -1002,7 +1002,7 @@ hr {
 }
 .cs-btn.cs-style1.cs-type1 {
   border: 2px solid #fff;
-  background-color: transparent;
+  background-color: orangered;
   border-radius: 5px;
   -webkit-transition: all 0.6s ease-out;
   transition: all 0.6s ease-out;
